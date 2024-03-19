@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/extjwnl/extjwnl.png?branch=master)](https://travis-ci.org/extjwnl/extjwnl)
-
+# Mis Acciones Sobre el Proyecto
+Este respositorio forma parte del trabajo de curso para la asignatura Análisis e Integracion de Sistemas Software,
+donde buscamos un proyecto público y realizamos:
+    * Análisis de la aplicación.
+    * Corrección de fallos.
+    * Mejoramos su cobertura y su accesibilidad.
 # About
 
 extJWNL (Extended Java WordNet Library) is a Java API for creating, reading and updating dictionaries in WordNet format. extJWNL supports:
@@ -14,6 +19,7 @@ extJWNL (Extended Java WordNet Library) is a Java API for creating, reading and 
 * enhanced database support
 * simplified configuration
 * multiple other improvements and fixes
+
 
 # Getting started
 
